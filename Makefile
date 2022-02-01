@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pypsrp
-URL = https://files.pythonhosted.org/packages/a9/82/d6ecba6d223bebbfb3dec02b5cb9974e5dd9b8a97603452f95724526151e/pypsrp-0.7.0.tar.gz
+URL = https://files.pythonhosted.org/packages/54/5e/65693b36b6b029e523404817d57b0e71296ae2819ab2b47deedec4632fd5/pypsrp-0.8.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
