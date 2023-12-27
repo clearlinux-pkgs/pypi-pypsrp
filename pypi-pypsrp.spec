@@ -4,7 +4,7 @@
 #
 Name     : pypi-pypsrp
 Version  : 0.8.1
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/57/da/3d9295972c20624c79843c1c14cf06fc6b0575ba786c1f72d6ca5bc5b9d5/pypsrp-0.8.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/57/da/3d9295972c20624c79843c1c14cf06fc6b0575ba786c1f72d6ca5bc5b9d5/pypsrp-0.8.1.tar.gz
 Summary  : PowerShell Remoting Protocol and WinRM for Python
